@@ -18,7 +18,7 @@
 ![Image](https://github.com/user-attachments/assets/c7e0c6e3-f6d9-44a7-a954-601f07c74818)
 > Stream API와 Lambda를 활용한 Java 기반 학사 관리 프로그램입니다. 성능과 안정성, 가독성을 고려한 함수형 설계에 집중했습니다.
 
-- 🔗 [GitHub 바로가기](https://github.com/minhyeokshin/managements_program)
+- 🔗 [GitHub 바로가기](https://github.com/minhyeokshin/managements_program/tree/main/src/student)
 - 🛠 **주요 기술**: Java (Stream, Lambda), JSON, GitHub
 - 🧩 **핵심 구현**
   - 학번 검색 최적화 (findFirst + orElse 처리)
