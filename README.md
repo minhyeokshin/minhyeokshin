@@ -10,6 +10,16 @@
 
 ---
 
+## 🚀 Projects
+
+### 🏷️ 직원 관리 CLI 프로그램
+- Java + MySQL 기반 CLI 시스템
+- [🔗 GitHub 바로가기](https://github.com/Management-sg/managements_program/tree/dev)
+- 역할: 구조 설계, Validator 개발, 협업 리딩
+- 
+
+---
+
 ## 🛠️ Tech Stacks
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -35,3 +45,14 @@
 
 ## 🏅 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeokshin&show_icons=true&theme=dark)
+
+[![minhyeokshin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhyeokshin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+
+<p align="center">
+  Thank you for visiting!  
+  <br/>  
+  <img src="https://komarev.com/ghpvc/?username=minhyeokshin&style=flat-square" alt="Profile Views" />
+</p>
