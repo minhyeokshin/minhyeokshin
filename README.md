@@ -15,6 +15,7 @@
 
 
 ### 🏷️ 학사 관리 프로그램  
+![Image](https://github.com/user-attachments/assets/c7e0c6e3-f6d9-44a7-a954-601f07c74818)
 > Stream API와 Lambda를 활용한 Java 기반 학사 관리 프로그램입니다. 성능과 안정성, 가독성을 고려한 함수형 설계에 집중했습니다.
 
 - 🔗 [GitHub 바로가기](https://github.com/dlwjdtjq001/managements_program)
@@ -31,6 +32,7 @@
 ---
 
 ### 🏷️ 직원 관리 CLI 프로그램  
+![Image](https://github.com/user-attachments/assets/5a20f9ea-d528-442a-89b3-026f4e4d4c84)
 > Java + MySQL 기반 CLI 시스템으로, 기존 시스템을 통합하고 구조를 정리하며 유지보수성과 흐름 개선에 중점을 둔 프로젝트입니다.
 
 - 🔗 [GitHub 바로가기](https://github.com/dlwjdtjq001/managements_program)
@@ -47,6 +49,7 @@
 ---
 
 ### 🏷️ 창고관리(WMS) 시스템  
+![Image](https://github.com/user-attachments/assets/76ef8c91-da9e-43e7-ba94-903c49774e99)
 > 실무형 구조 설계에 집중한 CLI 기반 WMS 시스템. 기능보다 “흐름” 중심의 설계와 예외 방지 전략을 도입한 프로젝트입니다.
 
 - 🔗 [GitHub 바로가기](https://github.com/Buildify-SSG/Buildify_Phase-1)
