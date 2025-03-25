@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Back%20to%20the%20logic,%20back%20to%20the%20basics%20🧠&animation=scaleIn&fontColor=000000&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191919,100:333333&height=120&section=header&text=Back%20to%20the%20logic,%20back%20to%20the%20basics%20🧠&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </div>
 
 ---
@@ -44,10 +44,11 @@
 ---
 
 ## 🏅 Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhyeokshin&theme=darkhub&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeokshin&show_icons=true&theme=dark)
 
 [![minhyeokshin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhyeokshin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ---
 
