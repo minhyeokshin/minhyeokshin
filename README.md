@@ -6,7 +6,11 @@
 ---
 
 ## 🧑‍💻 Who Am I?
-기능보다 설계를 먼저 생각하는 백엔드 개발자입니다.  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ecdf061-1de1-4d8d-86e3-f0a089a94785" width="400"/>
+</p><br>
+
+기능보다 설계를 먼저 생각하는 백엔드 개발자입니다.<br>
 기본기를 바탕으로 구조적인 코드를 지향합니다.
 
 ---
