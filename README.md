@@ -93,9 +93,9 @@
 
 ## 📫 Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sinminhyeok@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/minhyeok-shin-0bba66304/)<br>
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](http://devshin.info)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/minhyeokshin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/minhyeok-shin-0bba66304/)
 ---
 
 ## 🏅 Stats
@@ -106,6 +106,8 @@
 [![minhyeokshin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhyeokshin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+<sub>📬 Telegram: [@minhyeok_dev](https://t.me/adssxz) — 연락 가능한 채널입니다</sub>
 
 <p align="center">
   Thank you for visiting!  
