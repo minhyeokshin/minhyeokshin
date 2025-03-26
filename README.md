@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Who Am I?
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9ecdf061-1de1-4d8d-86e3-f0a089a94785" width="400"/>
+  <img src="https://github.com/user-attachments/assets/9ecdf061-1de1-4d8d-86e3-f0a089a94785" width="320"/>
 </p><br>
 
 기능보다 설계를 먼저 생각하는 백엔드 개발자입니다.<br>
