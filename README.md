@@ -39,7 +39,8 @@
 
 
 ### 🏷️ 학사 관리 프로그램  
-![Image](https://github.com/user-attachments/assets/c7e0c6e3-f6d9-44a7-a954-601f07c74818)
+<img src="https://github.com/user-attachments/assets/c7e0c6e3-f6d9-44a7-a954-601f07c74818" width="720"/>  
+
 > Stream API와 Lambda를 활용한 Java 기반 학사 관리 프로그램입니다. 성능과 안정성, 가독성을 고려한 함수형 설계에 집중했습니다.
 
 - 🔗 [GitHub 바로가기](https://github.com/minhyeokshin/managements_program/tree/main/src/student)
@@ -56,7 +57,8 @@
 ---
 
 ### 🏷️ 직원 관리 CLI 프로그램  
-![Image](https://github.com/user-attachments/assets/5a20f9ea-d528-442a-89b3-026f4e4d4c84)
+<img src="https://github.com/user-attachments/assets/5a20f9ea-d528-442a-89b3-026f4e4d4c84" width="720"/>  
+
 > Java + MySQL 기반 CLI 시스템으로, 기존 시스템을 통합하고 구조를 정리하며 유지보수성과 흐름 개선에 중점을 둔 프로젝트입니다.
 
 - 🔗 [GitHub 바로가기](https://github.com/minhyeokshin/managements_program)
@@ -73,7 +75,7 @@
 ---
 
 ### 🏷️ 창고관리(WMS) 시스템  - CLI
-![Image](https://github.com/user-attachments/assets/76ef8c91-da9e-43e7-ba94-903c49774e99)
+<img src="https://github.com/user-attachments/assets/76ef8c91-da9e-43e7-ba94-903c49774e99" width="720"/>  <br>
 > 실무형 구조 설계에 집중한 CLI 기반 WMS 시스템. 기능보다 “흐름” 중심의 설계와 예외 방지 전략을 도입한 프로젝트입니다.
 
 - 🔗 [GitHub 바로가기](https://github.com/minhyeokshin/Buildify_Phase-1)
@@ -89,8 +91,7 @@
 
 ---
 ### 🏷️ 창고관리(WMS) 시스템  - WEB
-![image](https://github.com/user-attachments/assets/7862f68b-5813-478f-b783-52cc18ee08d4)
-
+<img src="https://github.com/user-attachments/assets/7862f68b-5813-478f-b783-52cc18ee08d4" width="720"/>  <br>
 
 > **입·출고 요청부터 계약 관리·재고 모니터링까지**  
 물류 창고 전체 흐름을 자동화하는 **웹 기반 WMS(창고 관리 시스템)**입니다.  
@@ -118,8 +119,9 @@
 
 ---
 ## 🗓️ Planus (협업 일정 관리 플랫폼) – 실무 지향 구조 설계 프로젝트
+<img src="https://github.com/user-attachments/assets/f4817792-4d75-43f4-9127-7264dfe1bdf1" width="720"/>  
 
-**실제 협업 시나리오를 고려한 Spring 기반 그룹 일정·게시판·GitHub 연동 플랫폼.**  
+> **실제 협업 시나리오를 고려한 Spring 기반 그룹 일정·게시판·GitHub 연동 플랫폼.**  
 단순 기능보다 “보안, 인증, 연동 흐름”에 집중한 **실무형 구조 설계 중심**의 개인 프로젝트입니다.
 
 
