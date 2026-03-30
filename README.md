@@ -1,13 +1,20 @@
 ## Hey, I'm Minhyeok 👋
 
-웹 개발자입니다. 요즘은 TypeScript로 코브라우징 모듈을 만들고 있어요.
+웹 개발자입니다. 요즘은 TypeScript로 코브라우징 모듈을 만들고 있어요.  
+I'm a web developer.  
+These days, I'm building a co-browsing module with TypeScript.
+
 
 ---
 
 ### 지금 하고 있는 것
 
-- TypeScript 기반 Co-browsing 모듈 개발 (WebSocket + WebRTC)
-- 실시간 화면 공유 및 협업 기능 구현
+- TypeScript 기반 Co-browsing 모듈 개발 (WebSocket + WebRTC)  
+- Developing a TypeScript-based co-browsing module (WebSocket + WebRTC)
+
+- 실시간 화면 공유 및 협업 기능 구현  
+- Implementing real-time screen sharing and collaboration features
+
 
 ### 기술 스택
 
@@ -21,9 +28,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minhyeokshin)
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=minhyeokshin&theme=github-compact&hide_border=true&bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=minhyeokshin&theme=minimal&hide_border=true&bg_color=00000000" />
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=minhyeokshin&theme=minimal&hide_border=true" width="100%" />
-</picture>
