@@ -28,3 +28,9 @@ These days, I'm building a co-browsing module with TypeScript.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minhyeokshin)
 
 ---
+
+<p align="center">
+  Thank you for visiting!  
+  <br/>  
+  <img src="https://komarev.com/ghpvc/?username=minhyeokshin&style=flat-square" alt="Profile Views" />
+</p>
